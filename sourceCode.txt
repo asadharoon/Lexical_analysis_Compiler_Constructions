@@ -1,0 +1,45 @@
+const @a=0;
+// this is my comment
+//
+float @i = 1.1;
+int @arr [2];
+/*
+Now I am generate error
+*****/
+consst @abc# = 0;
+floatt @bcc = 2^8;
+//now i am using void and switch and while
+const @=0;
+void @ab(){
+
+  const @abc=0;
+  switch(@abc){
+    case 1:{
+      count+-;
+    }
+   }
+  while(){
+	int @a=0;
+	int @b=1;
+	}
+}
+cin>>>@a;
+cout<<<@b;
+// generate errors of #
+@abc#;
+@abc+-;
+
+for(int @i=0;@i<=@c;@i++){
+	if(@abc){
+         }
+	else{
+	int @abc=1.1^;
+}
+}
+<!
+cout<<;
+cin>>;
+cou;
+/*
+Hello asad 
+*^/
